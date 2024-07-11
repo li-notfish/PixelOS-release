@@ -15,7 +15,7 @@
     "release": "monthly",
     "device_display_name": "OnePlus 8T",
     "device_display_codename": "kebab",
-    "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/oscar/",
+    "public_download": "https://github.com/li-notfish/OTA/releases/",
     "last_updated": "11 Jun 2024",
     "private_download_tag": "kebab_202407101652",
     "active": true,
