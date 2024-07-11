@@ -1,0 +1,13 @@
+{
+    "devices":[
+        {
+            "codename":"kebab",
+            "codename_alt":"kebab",
+            "vendor": "OnePlus",
+            "model": "OnePlus8T",
+            "maintainer_name": "OnlyFish",
+            "frame": null,
+            "active": true
+        }
+    ]
+}

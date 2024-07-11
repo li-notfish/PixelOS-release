@@ -1,0 +1,22 @@
+{
+    "error":false,
+    "version":"fourteen",
+    "filename": "PixelOS_kebab-14.0-20240710-1652.zip",
+    "datetime": 1714650036,
+    "size": 2083473571,
+    "url":"",
+    "github_releases_url":"",
+    "filehash": "524FA94BC1F6804DBD2D0E2AA8F9117D",
+    "id":"524FA94BC1F6804DBD2D0E2AA8F9117D",
+    "maintainers":[
+        {
+            "main_maintainer":false,
+            "github_username":"li-notfish",
+            "name":"onlyfish"
+        }
+    ],
+    "donate_url":"",
+    "website_url":"https://pixelos.net",
+    "news_url": "https://blog.pixelos.net",
+    "forum_url": ""
+}
