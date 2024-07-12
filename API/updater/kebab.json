@@ -10,7 +10,7 @@
     "id":"524FA94BC1F6804DBD2D0E2AA8F9117D",
     "maintainers":[
         {
-            "main_maintainer":true,
+            "main_maintainer":false,
             "github_username":"li-notfish",
             "name":"onlyfish"
         }
