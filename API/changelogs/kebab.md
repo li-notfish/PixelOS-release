@@ -1,5 +1,12 @@
+# 20-Jun-2024
+- Move dobly to hw/oplus
+- Drop OplusDoze
+- OTA support
+- LTW is no long support may be drop
+- Track Upload kernel modify
+
 # 11-Jun-2024
-- tracker Juansheng Modify EAS
+- track Juansheng Modify EAS
 - Rebase to LineageOS
 - Dobly support
 - Better CPU scheduler under thermal pressure
