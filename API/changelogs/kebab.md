@@ -1,3 +1,7 @@
+# 21-Jun-2024
+- Move to pixel power Hal
+
+
 # 20-Jun-2024
 - Move dobly to hw/oplus
 - Drop OplusDoze
