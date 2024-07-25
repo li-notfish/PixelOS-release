@@ -1,3 +1,7 @@
+# 25-Jun-2024
+- Back to lineage power hal
+- Sync upsteam modify
+
 # 21-Jun-2024
 - Move to pixel power Hal
 
