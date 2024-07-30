@@ -1,3 +1,6 @@
+# 30-Jun-2024
+- Sync upsteam modify
+
 # 25-Jun-2024
 - Back to lineage power hal
 - Sync upsteam modify
