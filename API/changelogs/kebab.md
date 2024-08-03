@@ -1,5 +1,6 @@
 # 03-Aug-2024
 - tack Upsteam tree modify
+- need flash oos14 firmware
 
 # 30-Jun-2024
 - Sync upsteam modify
