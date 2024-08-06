@@ -1,3 +1,8 @@
+# 06-Aug-2024
+- fix sensors not working
+- Update IMS
+
+
 # 03-Aug-2024
 - tack Upsteam tree modify
 - need flash oos14 firmware
