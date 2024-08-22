@@ -1,13 +1,13 @@
 {
     "error":false,
     "version":"fourteen",
-    "filename": "PixelOS_kebab-14.0-20240806-1400.zip",
-    "datetime": 1722945840,
-    "size": 2094235826,
-    "url":"https://github.com/li-notfish/PixelOS-release/releases/download/20240806/PixelOS_kebab-14.0-20240806-1400.zip",
-    "github_releases_url":"https://github.com/li-notfish/PixelOS-release/releases/download/20240806/PixelOS_kebab-14.0-20240806-1400.zip",
-    "filehash": "72AA4EDA52D1944C55663E04835CF412",
-    "id":"72AA4EDA52D1944C55663E04835CF412",
+    "filename": "PixelOS_kebab-14.0-20240821-1730.zip",
+    "datetime": 1724258959,
+    "size": 1971347135,
+    "url":"https://github.com/li-notfish/PixelOS-release/releases/download/20240822/PixelOS_kebab-14.0-20240821-1730.zip",
+    "github_releases_url":"https://github.com/li-notfish/PixelOS-release/releases/download/20240822/PixelOS_kebab-14.0-20240821-1730.zip",
+    "filehash": "2E6442DEE428F498D61D8EE88F52D8BF",
+    "id":"2E6442DEE428F498D61D8EE88F52D8BF",
     "maintainers":[
         {
             "main_maintainer":false,

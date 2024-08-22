@@ -1,3 +1,8 @@
+# 22-Aug-2024
+- Aug update
+- sync upsteam tree
+- sync upsteam kernel
+
 # 06-Aug-2024
 - fix sensors not working
 - Update IMS
