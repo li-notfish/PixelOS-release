@@ -1,3 +1,6 @@
+# 25-Aug-2024
+- update oplus
+
 # 22-Aug-2024
 - Aug update
 - sync upsteam tree
