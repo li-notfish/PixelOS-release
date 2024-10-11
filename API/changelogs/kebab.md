@@ -1,3 +1,9 @@
+# 11-Oct-2024
+- Oct Update
+- track Upsteam tree update
+- track Upsteam kernel update
+- need to adb flash
+
 # 25-Aug-2024
 - update oplus
 
